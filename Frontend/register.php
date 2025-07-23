@@ -61,7 +61,7 @@ if (isset($_SESSION['user_id'])) {
       </div>
       <button type="submit" class="btn submit-btn">Registrar</button>
       <div class="link-group">
-        <p>Já tem conta? <a href="login.html">Faça login</a></p>
+        <p>Já tem conta? <a href="login.php">Faça login</a></p>
       </div>
     </form>
   </main>
